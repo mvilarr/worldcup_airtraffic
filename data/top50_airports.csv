@@ -1,0 +1,51 @@
+ICAO,dep_airport,lat_dep,long_dep,arrival,lat_ny,long_ny
+KORD,O'Hare International Airport,41.97684,-87.90474999999999,New York,40.7128,-74.006
+KATL,Hartsfield–Jackson Atlanta International Airport,33.6324187,-84.4333116,New York,40.7128,-74.006
+KBOS,Logan International Airport,42.3658907,-71.017547,New York,40.7128,-74.006
+KLAX,Los Angeles International Airport,33.942153,-118.4036052,New York,40.7128,-74.006
+KMCO,Orlando International Airport,28.432216,-81.30779969999999,New York,40.7128,-74.006
+KMIA,Miami International Airport,25.7923496,-80.28230590000001,New York,40.7128,-74.006
+CYYZ,Toronto Pearson International Airport,43.6798345,-79.62838339999999,New York,40.7128,-74.006
+KDFW,Dallas Fort Worth International Airport,32.8921983,-97.03912319999999,New York,40.7128,-74.006
+KSFO,San Francisco International Airport,37.61911449999999,-122.3816274,New York,40.7128,-74.006
+KCLT,Charlotte Douglas International Airport,35.2162994,-80.95394280000001,New York,40.7128,-74.006
+EGLL,Heathrow Airport,51.4679903,-0.4550471,New York,40.7128,-74.006
+KFLL,Fort Lauderdale–Hollywood International Airport,26.0731729,-80.1512317,New York,40.7128,-74.006
+KDEN,Denver International Airport,39.8563486,-104.6764061,New York,40.7128,-74.006
+KRDU,Raleigh–Durham International Airport,35.8797678,-78.7855512,New York,40.7128,-74.006
+KDCA,Ronald Reagan Washington National Airport,38.8530281,-77.0427924,New York,40.7128,-74.006
+KBNA,Nashville International Airport,36.1308194,-86.66611449999999,New York,40.7128,-74.006
+KIAH,George Bush Intercontinental Airport,29.9931058,-95.34162549999999,New York,40.7128,-74.006
+KDTW,Detroit Metropolitan Wayne County Airport,42.2132203,-83.3524824,New York,40.7128,-74.006
+KIND,Indianapolis International Airport,39.7149625,-86.2977052,New York,40.7128,-74.006
+KPIT,Pittsburgh International Airport,40.4928544,-80.2372942,New York,40.7128,-74.006
+KPBI,Palm Beach International Airport,26.6857475,-80.0928165,New York,40.7128,-74.006
+KTPA,Tampa International Airport,27.9768646,-82.5302804,New York,40.7128,-74.006
+KCLE,Cleveland Hopkins International Airport,41.4057985,-81.8538669,New York,40.7128,-74.006
+KCVG,Cincinnati/Northern Kentucky International Airport,39.051351,-84.6671453,New York,40.7128,-74.006
+KCMH,John Glenn Columbus International Airport,39.998728,-82.884463,New York,40.7128,-74.006
+KMSP,Minneapolis–Saint Paul International Airport,44.8850593,-93.2144354,New York,40.7128,-74.006
+KLAS,Harry Reid International Airport,36.08309070000001,-115.1482238,New York,40.7128,-74.006
+KBUF,Buffalo Niagara International Airport,42.9394052,-78.73350119999999,New York,40.7128,-74.006
+TJSJ,Luis Muñoz Marín International Airport,18.4395043,-65.9992275,New York,40.7128,-74.006
+KIAD,Washington Dulles International Airport,38.9522483,-77.45788859999999,New York,40.7128,-74.006
+KSEA,Seattle–Tacoma International Airport,47.4483652,-122.3085927,New York,40.7128,-74.006
+CYUL,Montréal–Trudeau International Airport,45.465787,-73.7454044,New York,40.7128,-74.006
+LFPG,Charles de Gaulle Airport,49.0078827,2.5507855,New York,40.7128,-74.006
+KPHX,Phoenix Sky Harbor International Airport,33.436253,-112.012159,New York,40.7128,-74.006
+KCHS,Charleston International Airport,32.8916648,-80.0395233,New York,40.7128,-74.006
+KRIC,Richmond International Airport,37.5105562,-77.3266991,New York,40.7128,-74.006
+KJAX,Jacksonville International Airport,30.4943308,-81.68714969999999,New York,40.7128,-74.006
+KORF,Norfolk International Airport,36.8935106,-76.1993707,New York,40.7128,-74.006
+KSTL,St. Louis Lambert International Airport,38.7499403,-90.374819,New York,40.7128,-74.006
+KSDF,Louisville Muhammad Ali International Airport,38.1706549,-85.7307673,New York,40.7128,-74.006
+KSAN,San Diego International Airport,32.7328909,-117.1897127,New York,40.7128,-74.006
+KAUS,Austin–Bergstrom International Airport,30.2142671,-97.67062589999999,New York,40.7128,-74.006
+PANC,Ted Stevens Anchorage International Airport,61.1769173,-149.9905923,New York,40.7128,-74.006
+LIRF,Leonardo da Vinci–Fiumicino Airport,41.8034632,12.2519211,New York,40.7128,-74.006
+KROC,Frederick Douglass Greater Rochester International Airport,43.1164111,-77.6747767,New York,40.7128,-74.006
+KMSY,Louis Armstrong New Orleans International Airport,29.9940319,-90.25965699999999,New York,40.7128,-74.006
+CYTZ,Billy Bishop Toronto City Airport,43.6289467,-79.3944199,New York,40.7128,-74.006
+KSAV,Savannah/Hilton Head International Airport,32.1294229,-81.201871,New York,40.7128,-74.006
+KBGR,Bangor International Airport,44.8067615,-68.8272406,New York,40.7128,-74.006
+KSLC,Salt Lake City International Airport,40.7771198,-111.9813838,New York,40.7128,-74.006

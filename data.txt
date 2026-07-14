@@ -1,0 +1,17 @@
+Matches will be held in 16 host cities in three countries
+
+Dallas will host the most games, followed by Los Angeles, New York, Atlanta and Miam
+
+--- fill color countriesi
+
+2025
+mean 1658
+total voos 49757
+
+2026 
+total voos 50457
+mean 1681
+
+aumentou 3
+caiu 4
+igual

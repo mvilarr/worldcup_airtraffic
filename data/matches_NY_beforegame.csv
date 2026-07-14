@@ -1,0 +1,11 @@
+difference,top10days,Date,Match_time,Team 1,Team 2,Venue,Phase,arrival,arr_airport
+5,2026-06-08,2026-06-13,18:00:00,Brazil,Morocco,New York New Jersey Stadium,Group Stage,2026-06-25,1862
+4,2026-06-09,2026-06-16,15:00:00,France,Senegal,New York New Jersey Stadium,Group Stage,2026-06-26,1854
+4,2026-06-18,2026-06-22,20:00:00,Norway,Senegal,New York New Jersey Stadium,Group Stage,2026-07-02,1846
+3,2026-06-19,2026-06-25,16:00:00,Ecuador,Germany,New York New Jersey Stadium,Group Stage,2026-06-24,1838
+2,2026-06-23,2026-06-27,17:00:00,Panama,England,New York New Jersey Stadium,Group Stage,2026-06-19,1825
+1,2026-06-24,2026-06-30,17:00:00,France,Sweden,New York New Jersey Stadium,Round of 32,2026-07-01,1807
+0,2026-06-25,2026-07-05,16:00:00,Brazil,Noruega,New York New Jersey Stadium,Round of 16,2026-06-23,1806
+1,2026-06-26,2026-07-19,15:00:00,Winner Match 101,Winner Match 102,New York New Jersey Stadium,Final,2026-06-09,1796
+4,2026-07-01,,,,,,,2026-06-18,1794
+3,2026-07-02,,,,,,,2026-06-08,1789
