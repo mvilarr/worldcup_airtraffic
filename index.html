@@ -10,13 +10,13 @@
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Geologica:wght,CRSV@100..900,0&family=Hammersmith+One&family=Liter&family=Mona+Sans:ital,wght@0,200..900;1,200..900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Space+Grotesk:wght@300..700&display=swap" rel="stylesheet">
-    
+<link href="https://fonts.googleapis.com/css2?family=Geologica:wght,CRSV@100..900,0&family=Hammersmith+One&family=Liter&family=Mona+Sans:ital,wght@0,200..900;1,200..900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Source+Serif+4:ital,opsz,wght@0,8..60,200..900;1,8..60,200..900&family=Space+Grotesk:wght@300..700&display=swap" rel="stylesheet">
+
     <style>
         body {
             margin: 0;
             font-size: 20px;
-            font-family: "Playfair Display", serif;
+            font-family: "Source Serif 4", serif;
             text-rendering: optimizeLegibility;
             
         }
@@ -54,15 +54,16 @@
             color: #666;
         }
 
+
        h1 {
-    font-family: "Playfair Display", serif;
+    font-family: "Source Serif 4", serif;
     font-weight: normal;
     font-size: 3em;
     line-height: 1.1;
 }
 
 .subhead {
-    font-family: "Playfair Display", serif;
+    font-family: "Source Serif 4", serif;
 }
 
         iframe,
@@ -107,22 +108,46 @@
                 padding-right: 0.5em;
             }
         }
+
+            .methodology {
+    background: #f4f4f4;
+    border-left: 3px solid #3109c2;
+    padding: 1.5em 1.75em;
+    margin-top: 3em;
+    font-size: 0.85em;
+    line-height: 1.6;
+    color: #444;
+}
+
+.methodology h3 {
+    margin-top: 0;
+    font-size: 1.1em;
+    font-family: "Source Serif 4", serif;
+}
+
+.methodology p {
+    padding-bottom: 0.8em;
+}
+
+.methodology p:last-child {
+    padding-bottom: 0;
+}
+
     </style>
 </head>
 <body>
     <div class="content">
         <div class="header">
-            <h1>World Cup Increases NYC Flight Traffic by Less Than 2%</h1>
+            <h1><strong>World Cup Increases NYC Flight Traffic by Less Than 2%</h1></strong>
             <p class="subhead">The biggest World Cup ever did not translate into a proportional rise in air traffic</p>
-        
-        <video controls width="100%">
-        <source src="C:\Users\samue\OneDrive\Desktop\Lede\Projects\world cup\img\Fifa.mov" type="video/mp4">
-        Seu navegador não suporta vídeo em HTML5.
-    </video>
-        
+
+<figure>
+    <img src="img/Fifa.gif" alt="Fifa Museum, New York City" width="100%">
+    <figcaption style="text-align: right;">Fifa Museum, New York City | <strong>Crédito</strong>: Marcela Villar</figcaption>
+</figure>
         </div>
         <div class="byline">
-            <p>By <a href="https://github.com/mvilarr?tab=repositories">Marcela Villar </a>| 14 June 2026</p>
+            <p>By <a href="https://github.com/mvilarr/worldcup_airtraffic">Marcela Villar </a>| 14 June 2026</p>
         </div>
     </div>    
     <div class="content">
@@ -135,7 +160,7 @@
 
      <div class="content">
         <p>The period analyzed this year ran from June 6, one week before the start of the championship, through the first three weeks of matches, ending on July 5. This was the date of the last match hosted by New York, when Brazil was eliminated by Norway after a 2–1 defeat.</p>
-        <p>For the analysis, we considered flights arriving at John F. Kennedy International Airport (JFK), LaGuardia Airport (LGA), and Newark Liberty International Airport (EWR). The data was collected from OpenSky, a network founded in 2012 by European researchers to provide open access to air traffic data.</p>
+        <p>The data was collected from OpenSky, a network founded in 2012 by European researchers to provide open access to air traffic data.</p>
 <p>On the other hand, nine of the ten busiest days at New York-area airports occurred within a four-day window before a World Cup match.</p>   
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/29677376"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/29677376/thumbnail" width="100%" alt="chart visualization" /></noscript></div> 
@@ -163,6 +188,20 @@
         <p>According to FIFA, the expansion of participating teams was designed to allow countries that had never competed in the tournament to take part in the World Cup. This year, four national teams made their debut: Cape Verde, Curaçao, Jordan, and Uzbekistan. FIFA is already considering expanding the tournament to 64 teams in 2030, marking the competition’s centennial anniversary.
 </p>
     </div>
+
+    <div class="content">
+    <div class="methodology">
+        <h3>Methodology</h3>
+        <p>Flight data was collected from the OpenSky Network API, covering arrivals at JFK, LaGuardia, and Newark airports between June 6 and July 5, in both 2025 and 2026.</p>
+        <p>Match and stadium data were sourced from FIFA's official 2026 World Cup schedule. Geolocation of stadiums was obtained using the Google Geocoding API.</p>
+        <p>All analysis was conducted using Python (pandas). Full code and data are available in the <a href="https://github.com/mvilarr/worldcup_airtraffic">GitHub repository</a>.</p>
+    </div>
+</div>
+
+<p></p>
+<p></p>
+<p></p>
+
 </body>
 
 </html>
